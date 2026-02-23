@@ -1,6 +1,6 @@
 # PROPERTY24 SQL Mini Project – Task Overview
 
-Project Background
+# Project Background
 You have been provided with a large property dataset representing residential properties across all nine provinces of South Africa. 
 The dataset simulates a real estate platform similar to Property24 and contains approximately 100,000 records.
 
