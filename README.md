@@ -1,6 +1,4 @@
-# -Mini-Project-One-Property24-
-
-# PROPERTY24 SQL MINI PROJECT – TASK OVERVIEW
+# PROPERTY24 SQL Mini Project – Task Overview
 
 Project Background
 You have been provided with a large property dataset representing residential properties across all nine provinces of South Africa. 
