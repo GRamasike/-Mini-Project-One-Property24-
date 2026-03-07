@@ -28,7 +28,8 @@ Use the following SQL Concepts:<br>
   - *SELECT*
   - *WHERE*
   - *ORDER BY*
-  - *TOP* <br>Ensure results are clear, readable and accurate.
+  - *TOP* <br>
+  Ensure results are clear, readable and accurate.
 
 # 📜Rules
 -Not allowed to <br>
