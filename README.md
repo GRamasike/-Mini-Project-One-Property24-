@@ -22,7 +22,7 @@ This project focuses on:
 - Practicing fundamentals SQL quering skills
 
 # 🔍 Tasks
--For this project, I must:
+For this project:
 -Write **SQL queries** to answer each question provided.
 -Use the following SQL Concepts:
   -*SELECT*
