@@ -24,7 +24,7 @@ This project focuses on:
 # 🔍 Tasks
 For this project:<br>
 Write **SQL queries** to answer each question provided.<br>
-Use the following SQL Concepts:
+Use the following SQL Concepts:<br>
   -*SELECT*
   - *WHERE*
   - *ORDER BY*
