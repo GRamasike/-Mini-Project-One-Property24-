@@ -45,9 +45,9 @@ All queries must be **clearly numbered** to match the provided question sheet.
 
 # ⚡Difficulty level
 **Beginner to Advanced SQL**
--SQL fundamentals
--Data exploration
--Analytical thinking
+- SQL fundamentals
+- Data exploration
+- Analytical thinking
 
 # 🧠 SQL Skills Covered
 - Basic SELECT Queries
