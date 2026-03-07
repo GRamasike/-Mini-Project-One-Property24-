@@ -40,7 +40,7 @@ Not allowed to : <br>
 Only **SELECT queries** should be used.
 
 # 📦Deliverables
--A SQL file
+- A SQL file
 All queries must be **clearly numbered** to match the provided question sheet.
 
 # ⚡Difficulty level
