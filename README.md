@@ -1,8 +1,7 @@
 # 📌 Property 24 SQL Mini Project – Task Overview Data Engineering
 
 # 📓 Project Background
-You have been provided with a large property dataset representing residential properties across all nine provinces of South Africa. <br>
-The dataset simulates a real estate platform similar to Property24 and contains approximately 100,000 records.
+This project focuses on exploring and analysing a large residential property dataset using SQL. The dataset simulates a real estate platform similar to Property21, containing approximately 100 000 property records across all nine provinces of South Africa.
 
 # 🎯Your Task
 Your task is to use SQL to explore, filter, and analyse the data using SELECT queries. You are NOT required to modify the data or insert new records.
