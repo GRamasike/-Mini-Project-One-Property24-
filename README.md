@@ -11,7 +11,7 @@ The goal of this project is to practice data exploration and querying using SQL 
 - Bedrooms and bathrooms
 - Other property features
 
-  The dataset is used to sumulate a real world estate data environmnent.
+  The dataset is used to simulate a real world estate data environmnent.
 
 # 🎯 Project Objective
 Use **SQL SELECT queries** to explore, filter, and analyse the dataset.
