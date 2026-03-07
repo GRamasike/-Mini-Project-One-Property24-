@@ -8,11 +8,13 @@ The goal of this project is to practice data exploration and querying using SQL 
 # 📁 Dataset
 - Property prices 
 - Location (Country, Province, City)
+- Bedrooms and bathrooms
+- Other property features
 
-# 🔍 What You Must Do
-• Write SQL queries to answer each question provided in the question document.<br>
-• Use SELECT, WHERE, ORDER BY, and TOP appropriately. <br>
-• Ensure your queries return accurate and readable results. 
+  The dataset is used to sumulate a real world estate data environmnent.
+
+# 🎯 Project Objective
+Use # SQL SELECT queries 
 
 # 📜Rules
 • Do not change the table structure. <br>
