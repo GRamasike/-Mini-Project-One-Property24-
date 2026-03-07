@@ -19,7 +19,7 @@ Use **SQL SELECT queries** to explore, filter, and analyse the dataset.
 This project focuses on:
 - Extracting meaningful insights from property data
 - Translating business questions into SQL queries
-- Practicing fundamentals SQL quesring skills
+- Practicing fundamentals SQL quering skills
 
 # 🔍 Tasks
 -For this project, I must:
