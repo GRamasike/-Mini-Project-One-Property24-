@@ -57,5 +57,9 @@ All queries must be **clearly numbered** to match the provided question sheet.
 - Counting Unique Values
 - Analytical Business Query
 
+# 🛠️ Tools Used
+
+- SQL Sever Management System (SSMS)
+
 
 
