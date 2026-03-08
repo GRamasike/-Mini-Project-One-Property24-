@@ -59,7 +59,8 @@ All queries must be **clearly numbered** to match the provided question sheet.
 
 # 🛠️ Tools Used
 
-- SQL Sever Management System (SSMS)
+- SQL Sever Management Studio (SSMS)
+- SQL Server
 
 
 
