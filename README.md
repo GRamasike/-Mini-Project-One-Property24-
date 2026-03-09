@@ -43,7 +43,7 @@ Only **SELECT queries** should be used.
 - A SQL file<br>
 All queries must be **clearly numbered** to match the provided question sheet.
 
-# ⚡Difficulty level
+# ⚡Difficulty Level
 **Beginner to Advanced SQL**
 - SQL fundamentals
 - Data exploration
