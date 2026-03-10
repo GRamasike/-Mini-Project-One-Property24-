@@ -3,7 +3,7 @@ USE Property24;
 
 --Property24 Basic SQL Practice Questions
 
---1. Display all properties in the database.
+--1. Display all properties in the dataset.
 SELECT*
 FROM property24_data;
 
@@ -38,7 +38,6 @@ WHERE BEDROOMS > 3;
 SELECT *
 FROM property24_data
 WHERE PARKING >= 2;
-
 
 --8. Show properties where the monthly repayment is greater than R25,000.
 SELECT *
