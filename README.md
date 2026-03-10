@@ -68,7 +68,9 @@ To simulate a real-world read-only data environment, the following constraints w
 
  # 👤 About Me
  I am a BSc IT Graduate with 6 years of professional experience as a Batch Processing Administrator at a credit bureau, where I worked extensively with large volumes of sensitive financial data in a production environment.<br>
+ 
  With a solid academic foundation in Database Management, Mathematics for Computer Science, and Project Management, combined with hands-on industry experience in data operations, I am now transitioning into SQL Development and Data Engineering — building on skills I have spent years applying professionally.<br>
+ 
 This project is part of a growing portfolio designed to demonstrate my technical capabilities in database design, querying, and data analysis.
  
  
