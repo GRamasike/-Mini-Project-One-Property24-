@@ -12,7 +12,7 @@ The goal of this project is to practise data exploration and querying using SQL 
 - Other property features
 
 # 📁 Database Setup
-CREATE DATABASE Property24;
+CREATE DATABASE Property24;<br>
 USE Property24;
 
 Main table: property24_data<br>
