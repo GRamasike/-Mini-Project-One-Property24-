@@ -15,6 +15,11 @@ The goal of this project is to practise data exploration and querying using SQL 
 CREATE DATABASE Property24;
 USE Property24;
 
+# 📂 Repository Structure
+The 60 queries are organised across six files, grouped by SQL concept and difficulty level: <br>
+
+
+
 Main table: property24_data<br>
 100,000 rows of residential property records across 9 provinces.
 
