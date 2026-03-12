@@ -20,12 +20,15 @@ Main table: property24_data<br>
 
 # 📂 Repository Structure
 The 60 queries are organised across six files, grouped by SQL concept and difficulty level: <br>
-- Property24_Foundations.sql 🟢 Beginner Basic SELECT, filtering, and ORDER BY queries.
-- Property24_Exploration.sql 🟡 Intermediate Multi-condition filtering, TOP queries, and analytical thinking.
-- Property24_Count_Aggregations.sql 🟠 Intermediate COUNT aggregations across provinces, cities, and property features.
-- Property24_Sum_Aggregations.sql 🟠 Intermediate SUM aggregations for property values, repayments, and costs.
-- Property24_Average_Aggregations.sql 🟠 Intermediate AVG aggregations for prices, sizes, and income requirements.
-- Property24_Analysis.sql 🔴 Advanced GROUP BY with WHERE filtering for complex business questions.
+
+| File Name | Difficulty Level | Description |
+| -------- | -------- | -------- |
+| Property24_Foundations.sql  | 🟢Beginner  | Basic SELECT, filtering, and ORDER BY queries.  |
+| Property24_Exploration.sql  | 🟡 Intermediate | Multi-condition filtering, TOP queries, and analytical thinking. |
+| Property24_Count_Aggregations.sql  | 🟠 Intermediate  | COUNT aggregations across provinces, cities, and property features.  |
+| Property24_Sum_Aggregations.sql  | 🟠 Intermediate  | SUM aggregations for property values, repayments, and costs.  |
+| Property24_Average_Aggregations.sql  | 🟠 Intermediate  | AVG aggregations for prices, sizes, and income requirements.  |
+| Property24_Analysis.sql  | 🔴 Advanced  | GROUP BY with WHERE filtering for complex business questions.  |
 
 # 🎯 Project Objective
 Use **SQL SELECT queries only** to explore, filter, and analyse the dataset.
