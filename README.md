@@ -9,14 +9,16 @@ The goal of this project is to practise data exploration and querying using SQL 
 - Property prices 
 - Location (Country, Province, City)
 - Bedrooms and bathrooms
-- Other property features
+- Additional property features
 
 # 📁 Database Setup
-CREATE DATABASE Property24;<br>
+```sql
+CREATE DATABASE Property24;
 USE Property24;
+```
 
-Main table: property24_data<br>
-100,000 rows of residential property records across 9 provinces.
+**Main table:** `property24_data`
+**Total records:** 100,000 residential property records across 9 provinces
 
 # 📂 Repository Structure
 The 60 queries are organised across six files, grouped by SQL concept and difficulty level: <br>
@@ -40,11 +42,13 @@ This project focuses on:
 
 # 📜Project Rules
 To simulate a real-world read-only data environment, the following constraints were applied: <br>
-  - ❌ No modifying the table structure
-  - ❌ No inserting new records
-  - ❌ No deleting records
-  - ❌ No updating existing data
-  - ✅ SELECT queries only
+ | Constraint | Status |
+|---|---|
+| Modifying table structure | ❌ Not permitted |
+| Inserting new records | ❌ Not permitted |
+| Deleting records | ❌ Not permitted |
+| Updating existing data | ❌ Not permitted |
+| SELECT queries | ✅ Permitted |
 
 # 🔍 Key SQL Skills Demonstrated
 - Basic SELECT queries & column aliasing
@@ -52,29 +56,37 @@ To simulate a real-world read-only data environment, the following constraints w
 - ORDER BY and TOP for ranking
 - COUNT, SUM, AVG aggregations
 - GROUP BY for grouped analysis
-- GROUP BY for grouped analysis
 - Analytical business querying
 
 # 📊 Key Findings
-# Insight
-🏆 The Western Cape contains the top 10 most expensive properties in the dataset <br>
-💰The Northern Cape has the lowest average property price across all provinces <br>
-🏙️Gqeberha recorded the highest total property value of any city <br>
-📉Kimberley has the lowest average property price of any city <br>
-📦The dataset contains 100,000 residential property records <br>
-🗺️All 9 provinces of South Africa are represented in the dataset <br>
+| Insight | Finding |
+|---|---|
+| 🏆 Most expensive properties | Western Cape contains the top 10 most expensive properties |
+| 💰 Lowest average price (Province) | Northern Cape has the lowest average property price |
+| 🏙️ Highest total property value (City) | Gqeberha recorded the highest total property value |
+| 📉 Lowest average price (City) | Kimberley has the lowest average property price |
+| 📦 Total records | 100,000 residential property records |
+| 🗺️ Provincial coverage | All 9 provinces of South Africa represented |
 
 # 🛠️ Tools Used
 
-- SQL Server — database creation and querying
-- SSMS (SQL Server Management Studio) — query development and testing
+- **SQL Server** — database creation and querying
+- **SSMS (SQL Server Management Studio)** — query development and testing
 
  # 👤 About Me
- I am a BSc IT Graduate with 6 years of professional experience as a Batch Processing Administrator at a credit bureau, where I worked extensively with large volumes of sensitive financial data in a production environment.<br>
- 
- With a solid academic foundation in Database Management, Mathematics for Computer Science, and Project Management, combined with hands-on industry experience in data operations, I am now transitioning into SQL Development and Data Engineering — building on skills I have spent years applying professionally.<br>
- 
-This project is part of a growing portfolio designed to demonstrate my technical capabilities in database design, querying, and data analysis.
+ BSc IT Graduate with six years of professional experience as a Batch 
+Processing Administrator at a credit bureau, working extensively with large 
+volumes of sensitive financial data in a production environment.
+
+With a solid academic foundation in Database Management, Mathematics for 
+Computer Science, and Project Management — combined with hands-on industry 
+experience in data operations — I am now transitioning into Data Analytics 
+and SQL Development.
+
+This project is part of a growing portfolio designed to demonstrate practical 
+capabilities in SQL querying, data exploration, and analytical thinking.
+
+📎 Connect with me on LinkedIn: [(https://www.linkedin.com/in/gomolemo-ramasike/)]
  
  
 
